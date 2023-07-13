@@ -43,7 +43,8 @@
 * [LeGO-LOAM](https://github.com/hrjp/LeGO-LOAM)
     * 3D Mapping
     * forked from [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
-
+* [naviton_design](https://github.com/KobeKosenRobotics/naviton_design)
+    * CADデータと回路基板データ
 ---
 
 # 2. Setup
