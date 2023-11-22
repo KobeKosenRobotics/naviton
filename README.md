@@ -14,11 +14,9 @@
 * [中之島ロボットチャレンジ2022](https://www.nakanoshima-rc.jp/index.html)にて完走＆課題完全達成　
 * [中之島ロボットチャレンジ2022エクストラチャレンジ](https://www.nakanoshima-rc.jp/2022_nakanoshima-rc_garbage_result.pdf)にて完走＆ゴミ回収チャレンジ達成　
 
-![naviton_bekobe](https://user-images.githubusercontent.com/36100321/140645407-81af34fd-451e-4b16-b041-acf035970be1.jpeg)
+<img src="https://user-images.githubusercontent.com/36100321/140645407-81af34fd-451e-4b16-b041-acf035970be1.jpeg" width="500">
 
-## Navigation Movie
-![navitonmovie](https://user-images.githubusercontent.com/36100321/140646689-f286757a-0510-4f52-9d16-587f6bef6fa1.gif)
-
+<img src="https://user-images.githubusercontent.com/36100321/140646689-f286757a-0510-4f52-9d16-587f6bef6fa1.gif" width="500">
 
 
 
