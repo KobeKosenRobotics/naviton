@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/36100321/140645407-81af34fd-451e-4b16-b041-acf035970be1.jpeg" width="500">
 
 ## Record
-
+-> [Nakanoshima Robot Challenge](https://www.nakanoshima-rc.jp/)
 | year convention | record | place |
 | :-- | :-- | :-- |
 | 2019 Nakanoshima Challenge | 411m / 477m | Nakanoshima |
@@ -15,7 +15,7 @@
 | 2022 Nakanoshima Challenge | 477m / 477m (**Complete**) | Nakanoshima |
 | 2022 Extra Challenge | 1090m / 1090m (**Complete**) | ATC |
 | 2023 Extra Challenge | 1090m / 1090m (**Complete**) | ATC |
-| 2023 Nakanoshima Challenge | 477m / 477m (**Complete**) | Nakanoshima |
+| 2023 Nakanoshima Challenge | 2440m / 2440m (**Complete**) | Nakanoshima |
 
 
 ---
