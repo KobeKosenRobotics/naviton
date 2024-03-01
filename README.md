@@ -21,6 +21,7 @@
 ---
 ## Software repository
 * [naviton_navigation](https://github.com/KobeKosenRobotics/naviton_navigation)
+* [naviton_firmware](https://github.com/KobeKosenRobotics/naviton_firmware)
 ## Hardware repository
 * [naviton_design](https://github.com/KobeKosenRobotics/naviton_design)
 
